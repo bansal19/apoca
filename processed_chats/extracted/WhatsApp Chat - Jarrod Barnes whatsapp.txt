@@ -1,0 +1,88 @@
+[2025-02-26, 9:45:21 AM] Jarrod Barnes: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[2025-02-26, 9:45:21 AM] Shardul Bansal: Hey Jarrod, how’s it going? I’m thinking of being at the Yuma event around 12
+‎[2025-02-26, 9:45:40 AM] Shardul Bansal: ‎image omitted
+[2025-02-26, 9:45:40 AM] Shardul Bansal: seems like slack is down
+
+[2025-02-26, 10:09:34 AM] Jarrod Barnes: ‎Voice call, ‎Answered on other device
+[2025-02-26, 2:45:07 PM] Shardul Bansal: Yoooo whatre u upto between now and the prime intellect event??
+[2025-02-26, 2:56:24 PM] Shardul Bansal: ‎Voice call, ‎No answer
+[2025-02-26, 2:56:37 PM] Shardul Bansal: ‎Voice call, ‎No answer
+[2025-02-26, 3:14:35 PM] Jarrod Barnes: ‎Voice call, ‎47 sec
+[2025-02-26, 3:15:38 PM] Shardul Bansal: ‎Location: https://maps.google.com/?q=39.770023,-104.956406
+[2025-02-26, 3:16:41 PM] Jarrod Barnes: ‎Voice call, ‎13 sec
+[2025-02-26, 3:17:17 PM] Shardul Bansal: https://maps.app.goo.gl/kPK7Ar2i7rxj8ffp9?g_st=com.google.maps.preview.copy
+[2025-02-26, 3:21:19 PM] Jarrod Barnes: ETA is 15 minutes
+[2025-02-26, 3:27:12 PM] Shardul Bansal: sounds good
+[2025-02-26, 3:35:26 PM] Jarrod Barnes: ‎Voice call, ‎29 sec
+[2025-02-27, 11:11:05 AM] Shardul Bansal: ‎Voice call, ‎No answer
+[2025-02-27, 11:11:25 AM] Shardul Bansal: Hello sir, what’s up?
+[2025-02-27, 3:14:11 PM] Jarrod Barnes: ‎Missed voice call, ‎Tap to call back
+[2025-02-27, 3:14:21 PM] Shardul Bansal: ‎Voice call, ‎No answer
+[2025-02-27, 3:14:33 PM] Shardul Bansal: ‎Voice call, ‎No answer
+[2025-02-27, 3:15:57 PM] Shardul Bansal: just tried returning ur missed call
+[2025-02-27, 3:24:20 PM] Jarrod Barnes: ‎Voice call, ‎Answered on other device
+[2025-02-28, 2:00:37 PM] Jarrod Barnes: ‎Voice call, ‎40 min
+[2025-02-28, 2:55:41 PM] Jarrod Barnes: https://x.com/gensynai/status/1895511335171166464?s=46&t=gLhZrvPaUUmBY37g7azWiA
+[2025-02-28, 2:55:53 PM] Jarrod Barnes: Should we go compete?
+[2025-02-28, 3:24:19 PM] Shardul Bansal: OOOoooooO
+[2025-02-28, 3:24:33 PM] Shardul Bansal: compete as in build a subnet or provide our compute?
+[2025-03-14, 2:52:13 PM] Shardul Bansal: Jarrod what’s up, are you already in SF?
+[2025-03-14, 3:32:39 PM] Jarrod Barnes: On my way to the venue!
+[2025-03-14, 3:32:42 PM] Jarrod Barnes: ‎Voice call, ‎29 sec
+[2025-03-14, 3:53:32 PM] Shardul Bansal: there in a min!
+[2025-03-14, 3:55:01 PM] Jarrod Barnes: Got us some seats - place is packed!
+[2025-03-14, 6:31:47 PM] Jarrod Barnes: Yo
+[2025-03-14, 6:37:16 PM] Shardul Bansal: yo, back in the seats
+[2025-03-19, 2:47:03 PM] Jarrod Barnes: ‎Voice call, ‎40 min
+[2025-03-20, 4:17:55 PM] Jarrod Barnes: Got some good feedback from investors today on their startup.
+
+Summary below - would love to hear your thoughts:
+
+1. Privacy vs. Cloud Value Proposition
+The central question posed was: "What gives you confidence that people are willing to share more data privately than they wouldn't share with ChatGPT?" 
+
+You need to validate if there's truly a segment of users who:
+- Will share significantly more valuable context/data locally than with cloud services
+- Value this privacy enough to adopt a potentially less powerful model
+- Believe the personalization benefits outweigh any performance tradeoffs
+
+2. Market Timing & Edge Adoption
+The investors expressed concern that edge computing might not be advancing fast enough:
+- "The dependency chart that you're building on is fragile."
+- "90% of the market is still closed source inference over APIs"
+
+You need to validate:
+- Growth rate of models running efficiently on consumer hardware
+- Whether enterprises are actually shifting workloads to edge (vs just talking about it)
+- Why existing edge LLM companies are struggling (as mentioned: "two of the top three are trying to be sold right now, and it's a fire sale")
+
+3. Monetization & Use Cases
+Investors wanted clarity on:
+- Specific high-value workflows that would justify switching from cloud
+- The monetization strategy that makes this venture-scale
+- Whether you're targeting consumer or enterprise (seems enterprise would be preferred)
+
+4. Differentiation Through Continuous Learning
+There's skepticism about whether continuous learning creates meaningful value:
+- "It feels like you're gonna get marginal benefits"
+- "That data can easily fit in context until it would have come back from a central server"
+
+You need to demonstrate:
+- Concrete examples showing how your approach produces materially better results
+- Quantifiable improvements in personalization that users can recognize and value
+- Why this needs to happen on-device vs. near-edge or cloud
+
+These validations should be your immediate focus before refining the pitch further. The investors seem to like the general thesis but question whether the timing and specific approach are right.
+[2025-03-20, 4:19:30 PM] Jarrod Barnes: Figma board I used for the pitch: https://www.figma.com/file/aFcSPv0QliSMUFDRMEbZsy?locale=en&type=design
+[2025-03-21, 9:42:38 AM] Shardul Bansal: > The central question posed was: "What gives you confidence that people are willing to share more data privately than they wouldn't share with ChatGPT?" 
+This is the question I asked as well. ChatGPT offers a finetuning option for GPT4, just not 4.5. So why would folks go for you? The way you rationalised this iirc was that the digital agency isn’t finetuning shit, they just don’t have the expertise or the desire.
+
+> ⁠"90% of the market is still closed source inference over APIs"
+This is true but your thesis is that 90% of the market is happy with a solution that’s getting them 60% of the way there. Your proposition hinges on the fact that all these firms have data that can improve the output of a single role by automating 99% without much effort. Wedge here is important tho…
+
+> ⁠Why existing edge LLM companies are struggling (as mentioned: "two of the top three are trying to be sold right now, and it's a fire sale")
+Is this true? Which ones?
+[2025-03-21, 9:43:38 AM] Shardul Bansal: I agree with a lot of the feedback from them tho, and it seems you also knew that because you said that’s what requires immediate validation
+[2025-03-24, 3:14:51 PM] Jarrod Barnes: ‎Voice call, ‎2 min
+[2025-03-28, 4:07:47 PM] Jarrod Barnes: ‎Voice call, ‎Answered on other device
+[2025-03-28, 5:19:03 PM] Jarrod Barnes: ‎Voice call, ‎Answered on other device

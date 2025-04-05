@@ -1,0 +1,5 @@
+{
+    "watch_dir": "~/Downloads",
+    "output_dir": "processed_chats",
+    "archive_dir": "archive"
+}

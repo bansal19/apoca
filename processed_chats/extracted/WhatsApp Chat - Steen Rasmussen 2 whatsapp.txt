@@ -1,0 +1,72 @@
+[2024-03-23, 7:58:08 PM] Steen Rasmussen: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+‎[2024-03-23, 7:58:08 PM] Steen Rasmussen: ‎image omitted
+[2024-03-23, 8:45:57 PM] Steen Rasmussen: https://www.cdr.fyi/blog/2023-year-in-review
+
+Great to use in a deck.
+[2024-03-24, 2:09:31 PM] Shardul Bansal: Amazing, thanks for sharing, gonna check it out
+[2024-03-28, 10:12:25 AM] Steen Rasmussen: Do you guys want to meet up in person? Victor  won't be able to attend as he got injured and is taking some downtime after a busy 2 days of investor demo's
+[2024-03-28, 11:07:45 AM] Shardul Bansal: Hey Steen, let's meet up in person! Where makes the most sense today?
+[2024-03-28, 11:40:00 AM] Steen Rasmussen: Maybe same spot?
+[2024-03-28, 12:39:53 PM] Shardul Bansal: Analog coffee? Sure, what time? Around 2 pm work?
+[2024-03-28, 1:22:28 PM] Steen Rasmussen: Sure. See you at 2pm
+[2024-03-28, 1:47:16 PM] Steen Rasmussen: Heading over now. Might be 5 min late. You want me to order you guys anything?
+[2024-03-28, 1:47:46 PM] Shardul Bansal: Nope, im good, thanks! Still waiting to hear from leejoo, hopefully he’ll be able to make it
+[2024-03-28, 2:05:50 PM] Steen Rasmussen: It's pretty busy in here, I will wait for you here and then we can go somewhere else to chat
+[2024-04-03, 10:53:26 AM] Shardul Bansal: Hey Steen, just had the call with the airminers folks, do you know about the binding permanence of SOP Lagoon on CO2?
+[2024-04-03, 10:54:03 AM] Steen Rasmussen: All the research papers for SOP are on their website
+[2024-04-03, 10:55:08 AM] Shardul Bansal: The research papers - https://www.mdpi.com/2071-1050/12/4/1393
+https://www.mdpi.com/2071-1050/11/18/4998
+
+don't mention binding permanence and this is kind of a critical question to answer
+[2024-04-04, 9:55:53 AM] Shardul Bansal: ‎Voice call, ‎2 min
+[2024-04-04, 10:21:11 AM] Shardul Bansal: ‎Voice call, ‎10 min
+‎[2024-04-04, 9:24:23 PM] Steen Rasmussen: Omiti Biochar Q2 2024.pdf • ‎16 pages ‎document omitted
+[2024-04-04, 9:24:42 PM] Steen Rasmussen: Here is our deck to give you some more context on Omitibiochar.com
+[2024-04-05, 12:45:54 PM] Steen Rasmussen: Wr got a investor for the dMRV Corp.
+
+It needs a kickass teaser deck, are you able to create one?
+
+We might need the Corp to be based in the US for certain VC groups.
+[2024-04-05, 1:30:16 PM] Shardul Bansal: Ok, that makes sense, I unfortunately don't have enough knowledge to be able to create it, never created one before :/
+[2024-04-05, 1:30:31 PM] Shardul Bansal: I'm also in the middle of a move to London for the next 3 months for this incubator, Entrepreneur First
+[2024-04-05, 1:49:15 PM] Shardul Bansal: Also, we've "provisionally" been accepted into Launch Pad, just need the answers for the binding permanence for SOP Lagoon. If we don't have that, I don't see a way we'll be able to create the credits
+[2024-04-08, 6:18:59 PM] Shardul Bansal: Hey Steen, any response to the SOP Lagoon question of binding permanence? I want to get back to AirMiners about it
+[2024-04-08, 6:21:39 PM] Steen Rasmussen: Shoot, slipped my mine. They might not get an answer back for a while. I would check with Victor as he is much more technical than me.
+[2024-04-08, 7:02:00 PM] Shardul Bansal: I'll email Victor about it then and we'll see where it goes from there
+[2024-04-08, 7:06:57 PM] Steen Rasmussen: I would just keep it vague, airMiners care about thay so it qualifies as a "removal" credit
+[2024-04-08, 7:07:22 PM] Shardul Bansal: Yea, makes sense
+[2024-04-13, 1:18:59 PM] Steen Rasmussen: I chatted with my colleague who can get us some capital if we have a good pitch and use of proceeds. How much would you need to get a good MVP for the dMRV?
+[2024-04-13, 1:22:33 PM] Shardul Bansal: How much information of the product? I'd like to understand the technical aspect of it completely, but considering Leejoo is no longer the right fit I'm looking for a cofounder here who I can ideate with and move fast with
+[2024-04-13, 1:23:32 PM] Shardul Bansal: if not the tech completely, I want some understanding of the binding permanence question. I reached out to Victor who hasn't gotten back to me, can you ping him to grab his attention?
+‎[2024-04-13, 1:27:16 PM] Steen Rasmussen: ‎image omitted
+[2024-04-13, 1:30:34 PM] Shardul Bansal: Don't we need the permanence for when we actually create a carbon credit?
+[2024-04-13, 1:33:44 PM] Steen Rasmussen: Only for a carbon removal credit, for an avoidance  or reduction credit it is not an issue, IMO
+[2024-04-20, 10:29:28 AM] Steen Rasmussen: How are things in London?
+
+Here is a bit more on the SOP stuff.
+
+Carbon Reduction: SOP Lagoon actively reduces the amount of ghg emitted into the atmosphere by enhancing the breakdown of organic materials in a way that produces fewer emissions. This is a direct reduction in the carbon footprint associated with manure management.
+
+Carbon Avoidance: By improving the efficiency of manure treatment and reducing the need for synthetic fertilizers, SOP Lagoon also helps in avoiding additional carbon emissions that would have been produced through the manufacturing and use of these fertilizers.
+
+Carbon Removal: While SOP Lagoon does contribute to a healthier and more efficient cycle of organic waste breakdown, it doesn't directly remove existing carbon dioxide from the atmosphere, which is typically the definition of carbon removal.
+[2024-04-20, 2:07:35 PM] Shardul Bansal: Great, thanks for getting back to me on that, it’s not concrete numbers but it’s useful! London is great, this incubator is the perfect environment, just haven’t made much progress on this project.
+
+Let’s hop on a call sometime when you’re free
+[2024-05-03, 11:51:13 AM] Steen Rasmussen: Hey Shardul, just looking for a status update on the dMRV front if you are still interested in it.
+[2024-05-04, 2:52:21 AM] Shardul Bansal: Hey Steen, I’ve found a cofounder and we’re exploring some other ideas in the energy space for now. I’m interested in the dMRV project but I couldn’t generate much interest from a cofounder in the incubator, so I think it may make sense for you to find someone else to pursue it.
+
+I’ll be back in Vancouver in a few months, however, and I’d love to catch up and know what’s happening on that front
+[2024-05-05, 12:34:16 PM] Steen Rasmussen: No worries on dMRV front, we have someone else ready to jump onboard and spearhead the project.
+
+Keep me in the loop on what you are working on in the tech side as Ikigai has lots of interesting connecting and would love to help advise.
+[2024-05-05, 1:36:07 PM] Shardul Bansal: Thanks Steen, wish you and them the best of luck, for sure will stay in touch. Thinking along the lines of AI and Energy right now but will probably flush the idea out further in a few weeks!
+[2025-01-26, 1:35:57 AM] Steen Rasmussen: Hey buddy,
+
+Let's chat soon as we have a sandbox in Namibia and access to anything.
+
+Cheers 
+Steen
+https://calendly.com/steen_carbon/30min
+[2025-01-26, 12:08:38 PM] Shardul Bansal: Hey Steen, 
+hope things are going well, I’m working on an ML company right now, would you have more context to what you mean when you say “access to anything”?

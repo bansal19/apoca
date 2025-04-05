@@ -1,0 +1,269 @@
+[2025-02-24, 8:53:19 PM] Sam Pierre: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[2025-02-24, 8:53:19 PM] Sam Pierre: ‎Sam is a contact.
+[2025-02-24, 8:51:12 PM] Sam Pierre: Blast from last
+[2025-02-24, 8:51:15 PM] Sam Pierre: Pasta
+[2025-02-24, 8:51:17 PM] Sam Pierre: Jesus
+[2025-02-24, 8:53:28 PM] Shardul Bansal: dawg i got no message history
+[2025-02-24, 8:54:14 PM] Shardul Bansal: whats the convo history
+[2025-02-24, 8:54:30 PM] Sam Pierre: Just us meeting up to study and play cards against humanity
+[2025-02-24, 8:55:12 PM] Shardul Bansal: dang i think our messenger chat is a bit more tragic
+[2025-02-24, 8:55:25 PM] Sam Pierre: Now that I have no idea
+[2025-02-24, 8:56:01 PM] Sam Pierre: Ugh cringe
+[2025-02-24, 8:56:06 PM] Shardul Bansal: ahaha i was gonna reach out to u on that but didnt wanna touch it w a 10 foot pole
+[2025-02-24, 8:56:07 PM] Sam Pierre: I have no interest in reliving
+[2025-02-24, 8:57:11 PM] Shardul Bansal: Should be at the hotel in 10!
+[2025-02-24, 8:58:47 PM] Sam Pierre: I really don’t have any recollection
+[2025-02-24, 8:59:14 PM] Shardul Bansal: it’s actually rather entertaining
+[2025-02-24, 8:59:22 PM] Shardul Bansal: we were tryna get ryan laid ahahahaha
+[2025-02-24, 8:59:53 PM] Shardul Bansal: my brain had decided to chuck that mem, had no idea we did that
+[2025-02-24, 9:00:54 PM] Sam Pierre: Haha oh dear….
+[2025-02-24, 9:01:01 PM] Sam Pierre: Rather glad we were unsuccessful
+[2025-02-24, 9:01:34 PM] Sam Pierre: Got free apps at the place next door
+[2025-02-24, 9:01:43 PM] Sam Pierre: Ask front desk for voucher for Mexican place when you get in
+[2025-02-24, 9:02:54 PM] Shardul Bansal: oh bettttt
+[2025-02-24, 9:03:13 PM] Shardul Bansal: will do
+[2025-02-24, 9:10:38 PM] Shardul Bansal: are u hitting the hay or u wanna prep for tomorrow for a bit?
+[2025-02-24, 9:15:42 PM] Sam Pierre: Im getting dinner!
+[2025-02-24, 9:15:47 PM] Sam Pierre: I didn’t eat dinner yet
+[2025-02-24, 9:15:59 PM] Sam Pierre: Going to either outback or Mexican place. Wanna join?
+[2025-02-24, 9:17:39 PM] Shardul Bansal: ya im in the lobby
+[2025-02-24, 9:17:41 PM] Shardul Bansal: in a min
+[2025-02-24, 9:17:49 PM] Shardul Bansal: im marveddddd
+[2025-02-24, 9:18:03 PM] Sam Pierre: Aight I join gimme 5
+[2025-02-25, 7:23:13 AM] Shardul Bansal: ready for some breaky?
+[2025-02-25, 8:01:05 AM] Sam Pierre: Oh shit
+[2025-02-25, 8:01:09 AM] Sam Pierre: I totally missed this message
+[2025-02-25, 8:02:51 AM] Shardul Bansal: nw, i just wrapped up — let’s leave in around 35 to the hackathon
+[2025-02-25, 8:03:07 AM] Sam Pierre: Im heading down to breakfast now
+[2025-02-25, 8:04:08 AM] Shardul Bansal: noice, imma shower and get ready to head, ill see u in the lobby just after half past 9?
+[2025-02-25, 8:04:17 AM] Sam Pierre: Perfect
+[2025-02-25, 8:36:37 AM] Shardul Bansal: in the lobby, lemme know if you’ll be down soon, I’ll call the uber
+[2025-02-25, 8:36:47 AM] Sam Pierre: Coming
+[2025-02-25, 8:36:49 AM] Sam Pierre: In elevator
+[2025-02-25, 8:36:52 AM] Shardul Bansal: betttt
+[2025-02-25, 10:46:38 AM] Shardul Bansal: bet
+[2025-02-25, 10:46:44 AM] Shardul Bansal: https://github.com/CrucibleAILabs/debbie-finetune
+[2025-02-25, 10:46:48 AM] Sam Pierre: can you send repo again plz
+[2025-02-25, 10:46:49 AM] Sam Pierre: thank you
+[2025-02-25, 10:47:02 AM] Sam Pierre: i think we shoudl not do sn 4 as a subnet
+[2025-02-25, 10:47:05 AM] Sam Pierre: in case the answers are wrong
+[2025-02-25, 10:47:09 AM] Sam Pierre: less of a chance they catch it
+[2025-02-25, 10:47:27 AM] Sam Pierre: so gunna do SN 64, 8, 34 - what do you think?
+[2025-02-25, 10:53:29 AM] Shardul Bansal: ahhh smort smort
+[2025-02-25, 10:53:43 AM] Shardul Bansal: honestly, even if it is wrong, it’ll be jokes
+‎[2025-02-25, 11:11:41 AM] Shardul Bansal: ‎image omitted
+[2025-02-25, 11:11:44 AM] Shardul Bansal: from here - https://huggingface.co/datasets/yahma/alpaca-cleaned?row=8
+[2025-02-25, 11:11:48 AM] Shardul Bansal: input field is optional
+[2025-02-25, 11:12:27 AM] Shardul Bansal: so think: 
+instruction: “What is bittensor”
+output: “ A protocol for AI competition” 
+input: “”
+[2025-02-25, 11:12:38 AM] Shardul Bansal: Those 3 columns would be dopeeee
+[2025-02-25, 11:39:16 AM] Sam Pierre: https://open.spotify.com/playlist/2Y0zdDCkVUMk4T5nZtPIjp?si=L4HCjb7bSyy1pvEzJMFcCg&pi=CjinRLhdQjOCX
+[2025-02-25, 1:22:20 PM] Shardul Bansal: https://targon.com/models/deepseek-ai%2FDeepSeek-R1
+[2025-02-25, 1:23:30 PM] Shardul Bansal: sn4_80tdngpch4k23sjg6ru5gefqpha9
+[2025-02-25, 4:03:07 PM] Shardul Bansal: https://lu.ma/z0v7px3g?tk=RiC9kc
+[2025-02-25, 7:28:05 PM] Sam Pierre: https://lu.ma/e/evt-1iCHigWwl9HcuEL?pk=g-lFFv7C6rSvZzaRQ
+[2025-02-26, 7:46:53 AM] Sam Pierre: hey sorry got caught up filming twitter content
+[2025-02-26, 7:46:56 AM] Sam Pierre: be down soon
+[2025-02-26, 7:57:00 AM] Shardul Bansal: hey np! on the phone w me mum having breaky
+[2025-02-26, 7:57:09 AM] Sam Pierre: Coming down now
+[2025-02-26, 8:06:55 AM] Sam Pierre: https://lu.ma/e7juxpnm
+[2025-02-26, 8:08:48 AM] Sam Pierre: https://maps.app.goo.gl/1LXUif519hY4ZvEc7?g_st=com.google.maps.preview.copy
+[2025-02-26, 9:20:01 AM] Sam Pierre: didn't go to breakfast - lemme know when you are leaving
+[2025-02-26, 9:41:40 AM] Shardul Bansal: sg, will likely leave in just short of an hour!
+‎[2025-02-26, 9:44:42 AM] Shardul Bansal: ‎image omitted
+[2025-02-26, 9:44:45 AM] Shardul Bansal: is ur slack working
+[2025-02-26, 9:45:06 AM] Sam Pierre: On my phone yes
+[2025-02-26, 9:45:31 AM] Shardul Bansal: wordddd
+[2025-02-26, 9:51:18 AM] Shardul Bansal: i’m working in my room btw if u wanna pull up
+[2025-02-26, 10:21:34 AM] Shardul Bansal: ok i just pushed the change i wanted to, ready to head in 2?
+[2025-02-26, 10:28:48 AM] Shardul Bansal: ‎Voice call, ‎34 sec
+[2025-02-26, 10:29:46 AM] Shardul Bansal: ‎Voice call, ‎29 sec
+[2025-02-26, 10:34:08 AM] Sam Pierre: Im in lobby
+[2025-02-26, 2:09:55 PM] Sam Pierre: Yo
+[2025-02-26, 2:10:00 PM] Sam Pierre: This guy idea is cool
+[2025-02-26, 3:16:40 PM] Sam Pierre: Green Spaces : Co-working, Marketplace, & Event Space, 2590 Walnut St, Denver, CO 80205, USA
+[2025-02-26, 3:16:48 PM] Sam Pierre: https://lu.ma/walletcondenver?locale=en-CA
+[2025-02-26, 8:40:09 PM] Sam Pierre: Heading to WOMBO event
+[2025-02-26, 8:46:52 PM] Shardul Bansal: fucking A, it’s alright rn
+[2025-02-26, 8:47:05 PM] Shardul Bansal: i need a drinking buddy
+[2025-02-26, 8:47:20 PM] Sam Pierre: Haha BET
+[2025-02-26, 8:47:33 PM] Shardul Bansal: lfg
+[2025-02-26, 9:09:28 PM] Sam Pierre: Yo did you check out back rooms?
+[2025-02-26, 9:15:14 PM] Shardul Bansal: is benzi there??
+[2025-02-26, 10:35:30 PM] Shardul Bansal: headed home now, calling the uber in a sec! not sure if u wanna join
+[2025-02-26, 10:52:03 PM] Sam Pierre: Yo just saw this. Was hanging with Ben. You gone?
+[2025-02-26, 10:52:08 PM] Sam Pierre: Im fucked up
+[2025-02-26, 10:52:38 PM] Shardul Bansal: literally just hopped in the uber
+[2025-02-26, 10:52:47 PM] Shardul Bansal: u still need a ride?
+[2025-02-26, 10:52:53 PM] Shardul Bansal: im still at the club
+[2025-02-26, 10:53:32 PM] Shardul Bansal: ‎Voice call, ‎No answer
+[2025-02-26, 10:54:00 PM] Shardul Bansal: bouta leave, lemme know
+[2025-02-26, 11:06:14 PM] Sam Pierre: Shit
+[2025-02-26, 11:06:24 PM] Sam Pierre: Im at the first bar
+[2025-02-26, 11:06:28 PM] Sam Pierre: With Ben and Ben
+[2025-02-26, 11:06:37 PM] Sam Pierre: All good
+[2025-02-26, 11:13:14 PM] Shardul Bansal: ayyyyy bet learn a bunch
+[2025-02-26, 11:13:28 PM] Shardul Bansal: i need to hit the hay
+[2025-02-26, 11:14:38 PM] Sam Pierre: Fair
+[2025-02-27, 8:16:20 AM] Shardul Bansal: yo can i come grab my bag
+[2025-02-27, 8:16:28 AM] Sam Pierre: Yo yeah for sure
+[2025-02-27, 8:16:31 AM] Sam Pierre: Give me like 5 mins
+[2025-02-27, 8:16:38 AM] Shardul Bansal: sg
+[2025-02-27, 8:16:43 AM] Shardul Bansal: what room
+[2025-02-27, 8:22:54 AM] Sam Pierre: 691
+[2025-02-27, 8:22:59 AM] Sam Pierre: 601*
+[2025-02-27, 8:23:18 AM] Shardul Bansal: word, coming now
+[2025-02-27, 10:52:51 AM] Shardul Bansal: yo have u left yet?
+[2025-02-27, 10:53:02 AM] Sam Pierre: Eating lunch in my room. Leaving in 15
+[2025-02-27, 10:53:25 AM] Shardul Bansal: niiiice what’d u do for lunch
+[2025-02-27, 10:53:31 AM] Sam Pierre: Sushi
+[2025-02-27, 10:53:33 AM] Sam Pierre: Was craving
+[2025-02-27, 10:53:43 AM] Shardul Bansal: ooof
+[2025-02-27, 10:53:48 AM] Shardul Bansal: denver sushi
+[2025-02-27, 10:53:52 AM] Shardul Bansal: not a body of water in sight
+[2025-02-27, 10:54:01 AM] Sam Pierre: Yeah it’s as bad as it sounds
+[2025-02-27, 10:54:10 AM] Sam Pierre: I about ready to go any time
+[2025-02-27, 10:54:20 AM] Shardul Bansal: ok cool, i’m ready as well
+[2025-02-27, 10:54:28 AM] Sam Pierre: aight i will call uber
+[2025-02-27, 10:57:01 AM] Sam Pierre: 2 mins. Meet you ds
+[2025-02-27, 10:57:41 AM] Shardul Bansal: sg!
+[2025-02-27, 11:30:09 AM] Sam Pierre: https://lu.ma/bjki4pj0?pk=g-rFTi82bzvdS2zOV
+[2025-02-27, 1:23:16 PM] Sam Pierre: Bro
+[2025-02-27, 1:23:20 PM] Sam Pierre: What is this
+[2025-02-27, 1:45:26 PM] Shardul Bansal: ahaha just saw this
+[2025-02-27, 1:45:34 PM] Sam Pierre: The podcast
+[2025-02-27, 1:45:38 PM] Shardul Bansal: yeeeee
+[2025-02-27, 1:45:51 PM] Sam Pierre: You wanna work downstairs in like 1 hr?
+[2025-02-27, 1:45:54 PM] Shardul Bansal: come down whenever ur good, ill be working!
+[2025-02-27, 1:45:57 PM] Shardul Bansal: perfect
+[2025-02-27, 2:44:40 PM] Sam Pierre: bro i just got a marriage proposal from my twitter video... the fuk do i do.....
+‎[2025-02-27, 2:45:24 PM] Sam Pierre: ‎image omitted
+[2025-02-27, 2:48:32 PM] Shardul Bansal: no fucking way whattttttt
+[2025-02-27, 2:48:45 PM] Shardul Bansal: jesus fucking christ
+[2025-02-27, 2:48:47 PM] Sam Pierre: actually tho how do i respond to this
+[2025-02-27, 2:48:50 PM] Shardul Bansal: that’s ass
+[2025-02-27, 2:49:04 PM] Shardul Bansal: i checked, i don’t see the reply?
+[2025-02-27, 2:49:11 PM] Sam Pierre: i mean i am flatterred but like....
+[2025-02-27, 2:49:14 PM] Sam Pierre: it's on reposts
+[2025-02-27, 2:49:16 PM] Sam Pierre: hold on
+[2025-02-27, 2:49:30 PM] Sam Pierre: https://x.com/defi_42069/status/1895107146368663923?s=46
+[2025-02-27, 2:50:13 PM] Shardul Bansal: how do u feel about it
+[2025-02-27, 2:50:20 PM] Shardul Bansal: uncomfortable
+[2025-02-27, 2:50:25 PM] Sam Pierre: it's liek a bit much - i wish i knew who this was
+[2025-02-27, 2:50:25 PM] Shardul Bansal: ..?
+[2025-02-27, 2:50:37 PM] Shardul Bansal: yeeeee
+[2025-02-27, 2:50:41 PM] Sam Pierre: i don't think i know them? do you?
+[2025-02-27, 2:50:51 PM] Shardul Bansal: this is defo a bit fucked
+[2025-02-27, 2:50:56 PM] Shardul Bansal: i don’t know them
+[2025-02-27, 2:51:05 PM] Shardul Bansal: ignore it…?
+[2025-02-27, 2:51:12 PM] Shardul Bansal: actually, reply
+[2025-02-27, 2:51:25 PM] Sam Pierre: i don't think i can reply
+[2025-02-27, 2:51:27 PM] Shardul Bansal: “not in this industry looking to get married thank u tho”
+[2025-02-27, 2:51:32 PM] Shardul Bansal: why not
+[2025-02-27, 2:51:33 PM] Sam Pierre: no way!
+[2025-02-27, 2:51:35 PM] Sam Pierre: that's so aweful
+[2025-02-27, 2:51:50 PM] Shardul Bansal: is it
+[2025-02-27, 2:51:51 PM] Shardul Bansal: why
+[2025-02-27, 2:51:56 PM] Shardul Bansal: hold u ground
+[2025-02-27, 2:51:57 PM] Sam Pierre: nah i have to respond mockingly
+[2025-02-27, 2:52:03 PM] Sam Pierre: like if i take it seriously it's no good
+[2025-02-27, 2:52:05 PM] Shardul Bansal: ya that could be better
+[2025-02-27, 2:52:08 PM] Sam Pierre: like if i respond it's with a ring
+[2025-02-27, 2:52:11 PM] Sam Pierre: like emojji
+[2025-02-27, 2:52:22 PM] Sam Pierre: but that's too encouraging
+[2025-02-27, 2:52:44 PM] Shardul Bansal: i get that, it’d be jokes but don’t u wanna discourage this kinda bs
+[2025-02-27, 2:52:53 PM] Shardul Bansal: ya exactly
+[2025-02-27, 2:53:12 PM] Sam Pierre: so like i need a short jokes emojji that shuts it down
+[2025-02-27, 2:53:16 PM] Sam Pierre: or i don't respond
+[2025-02-27, 2:53:32 PM] Shardul Bansal: u could respond with a “where’s the 💍?? ….but like deadass i’m not in the industry to get married”
+[2025-02-27, 2:55:46 PM] Sam Pierre: i'm thinking "just ehre for the alpha not the drama"
+[2025-02-27, 2:56:08 PM] Shardul Bansal: that’s not bad
+[2025-02-27, 2:56:16 PM] Sam Pierre: proof of work > proof of flirt
+[2025-02-27, 2:56:37 PM] Shardul Bansal: replace work with stake and that’d be jokes
+[2025-02-27, 2:57:24 PM] Shardul Bansal: or yuma consensus > proof of work > proof of flirt ‎<This message was edited>
+[2025-02-27, 2:57:38 PM] Shardul Bansal: still shill bittensor
+[2025-02-27, 3:01:57 PM] Sam Pierre: i need coffee - gunna head downstairs in 5
+[2025-02-27, 3:02:06 PM] Sam Pierre: also i cannot get this end point up in you have 10 mins to spare
+[2025-02-27, 3:02:47 PM] Shardul Bansal: yesss, gimme 5, just tryna wrap something up!
+[2025-02-27, 3:03:21 PM] Shardul Bansal: want me to come to u?
+[2025-02-27, 3:03:35 PM] Sam Pierre: let's go downstairs - i want some coffee
+[2025-02-27, 3:03:42 PM] Sam Pierre: can work at the tables down there
+[2025-02-27, 3:03:48 PM] Shardul Bansal: ok ill join u there in a bit
+[2025-02-27, 5:34:09 PM] Sam Pierre: yo you wanna go?
+[2025-02-27, 5:34:56 PM] Shardul Bansal: i do, ready in 5!
+[2025-02-27, 5:35:38 PM] Shardul Bansal: art thou ready
+[2025-02-27, 5:35:48 PM] Sam Pierre: in 5 yeah - i'll call uber
+[2025-02-27, 5:35:56 PM] Sam Pierre: meet you ds in 5
+[2025-02-27, 5:46:29 PM] Sam Pierre: Uber in 6 mins
+[2025-02-28, 8:05:44 AM] Shardul Bansal: shalom!! grabbing a bit of breaky in 5!
+[2025-02-28, 9:23:16 AM] Sam Pierre: Wanna do lunch at 12?
+[2025-02-28, 9:31:26 AM] Shardul Bansal: lets do it!
+[2025-02-28, 10:52:34 AM] Sam Pierre: Ready anytime
+[2025-02-28, 10:59:40 AM] Shardul Bansal: Sweet, omw to the lobby!
+[2025-02-28, 10:59:52 AM] Sam Pierre: Bless
+[2025-02-28, 12:40:08 PM] Sam Pierre: can you do me a favour
+[2025-02-28, 12:40:17 PM] Sam Pierre: can you please text this number - i need to see if it is wokring
+[2025-02-28, 12:40:28 PM] Sam Pierre: 603-565-9771
+[2025-02-28, 12:41:32 PM] Shardul Bansal: dang is it an American number
+[2025-02-28, 12:41:46 PM] Shardul Bansal: i can’t text american numbers without getting insane roaming charges
+[2025-02-28, 12:42:34 PM] Sam Pierre: Ok
+[2025-02-28, 12:43:51 PM] Shardul Bansal: if it’s urgent i can do it np
+[2025-02-28, 12:44:07 PM] Sam Pierre: it's fine
+[2025-02-28, 12:44:11 PM] Sam Pierre: i will find another way to test
+[2025-02-28, 12:44:17 PM] Sam Pierre: just TD is a terrible bank
+[2025-02-28, 12:44:24 PM] Sam Pierre: and i need to sign up for venmo
+[2025-02-28, 12:44:28 PM] Sam Pierre: and they won't accept my canadian
+[2025-02-28, 12:44:29 PM] Sam Pierre: so i'
+[2025-02-28, 12:44:35 PM] Shardul Bansal: ahhhh that’s booty
+[2025-02-28, 12:45:09 PM] Shardul Bansal: https://www.t-mobile.com/support/plans-features/t-mobile-esim-app
+[2025-02-28, 12:45:17 PM] Shardul Bansal: would highly recommend ^
+[2025-02-28, 12:45:18 PM] Sam Pierre: yeah i am trying
+[2025-02-28, 12:45:20 PM] Sam Pierre: i tried air alo
+[2025-02-28, 12:45:24 PM] Sam Pierre: because t-mobile didn't work
+[2025-02-28, 12:45:28 PM] Sam Pierre: it is litereally so complicated
+[2025-02-28, 12:45:35 PM] Shardul Bansal: subnet idea
+[2025-02-28, 4:48:13 PM] Sam Pierre: In the lobby
+[2025-02-28, 4:48:29 PM] Shardul Bansal: just need 2!
+[2025-02-28, 4:48:37 PM] Sam Pierre: No rush
+[2025-02-28, 4:53:37 PM] Shardul Bansal: pickup in 9, ur good
+[2025-02-28, 4:53:54 PM] Sam Pierre: Thanks!
+[2025-02-28, 4:53:57 PM] Sam Pierre: Be right back
+[2025-02-28, 5:14:10 PM] Sam Pierre: https://lu.ma/mountaintimelounge?pk=g-T0vNWNUlHcMdmXj
+[2025-03-01, 7:58:44 AM] Sam Pierre: Hey - shuttles comes at 9:15
+[2025-03-01, 7:59:24 AM] Sam Pierre: I’m down at breakfast
+[2025-03-01, 7:59:49 AM] Shardul Bansal: Be down in a min!
+[2025-03-01, 11:02:23 AM] Shardul Bansal: i left my ethdenver badge in xaviers car and now they’re asking for a 100$ fee to get a new badge 😭
+[2025-03-01, 11:02:32 AM] Shardul Bansal: is it still worth
+[2025-03-01, 11:02:34 AM] Sam Pierre: Oh shit
+[2025-03-01, 11:02:48 AM] Sam Pierre: Crap I could have left you mine
+[2025-03-01, 11:02:59 AM] Shardul Bansal: honestly thinking i might just work somewhere
+[2025-03-01, 11:03:01 AM] Sam Pierre: I would ask someone who looks like they are leaving if you can grab the badge from them
+[2025-03-01, 11:03:07 AM] Shardul Bansal: already got a bunch of tees
+[2025-03-01, 11:03:16 AM] Shardul Bansal: that’s a good idea
+[2025-03-01, 11:03:43 AM] Sam Pierre: Or sign up with a different wallet address to the spork dap
+[2025-03-01, 11:04:57 AM] Shardul Bansal: the different email is gonna take a while
+[2025-03-24, 6:43:45 AM] Sam Pierre: Hey are you in NY ?
+[2025-03-24, 6:48:09 AM] Shardul Bansal: yessss!! Did you just land?
+[2025-03-24, 6:48:40 AM] Sam Pierre: Landed last night. What’s your plan today?
+[2025-03-24, 6:50:49 AM] Shardul Bansal: Currently at a wework in Manhattan - Jarrod and I are gonna be working outta here around 11:30ish - 
+
+The Malin Williamsburg
+109 North 12th Street, 9th Floor, New York, 11249, United States
+[2025-03-24, 6:50:56 AM] Shardul Bansal: come thru!
+[2025-03-24, 6:57:54 AM] Sam Pierre: Nice! Ok I’ll join up and aim to be there around 12;30
+[2025-03-24, 9:31:28 AM] Sam Pierre: Got stuck debugging - found major error in way models being called. Fixing then coming
+[2025-03-24, 10:13:51 AM] Shardul Bansal: Sweet, Jarrod and I just wrapped up lunch, we’ll see you there
+[2025-03-24, 10:53:08 AM] Sam Pierre: On my way
+[2025-03-24, 11:13:23 AM] Shardul Bansal: ok - the only thing is the day pass for this spot is 75 bucks which is kinda fucked
+[2025-03-24, 11:13:43 AM] Sam Pierre: Well I’m 3 blocks away now
+[2025-03-24, 11:13:52 AM] Sam Pierre: So whatever
+[2025-03-24, 11:14:09 AM] Shardul Bansal: word aahahah see u soon
+[2025-03-24, 11:14:28 AM] Sam Pierre: Do they have a time limit of how long you can stay
+[2025-03-24, 11:14:44 AM] Sam Pierre: Cause I’ll stay late if I can
+[2025-03-24, 11:14:59 AM] Shardul Bansal: i don’t think so…? I think it’s a day pass, mine goes till 7 pm
+[2025-03-24, 11:15:32 AM] Shardul Bansal: i think max is till 7
+[2025-03-24, 11:15:34 AM] Shardul Bansal: https://themalin.co/locations/williamsburg/
+[2025-03-24, 11:15:41 AM] Sam Pierre: Ok
+[2025-03-24, 11:28:18 AM] Sam Pierre: So I am here but cannot locate entrance
